@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Copyright (c) Microsoft. All rights reserved.
+# Copyright (c) Unity-Billal-mesloub. All rights reserved.
 
 # Working dirctory to return to
 __InitialCWD=$(pwd)
